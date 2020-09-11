@@ -2,6 +2,8 @@
 using flickr dataset ,pretrained inceptionv3 model, and lstms ,we implemented image captioning for automatically generating text from image
 ## Image Captioining
 Automatically generating the textual description from an artificial system is the task of image captioning.
+## Inception Model Architecture
+![image](./inceptionv3_model.png)
 ## Caption Images
 ![image](./caption_images.png)
 ## Dataset
